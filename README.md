@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Olá, eu sou o Igor!
+## 👋 Olá, me chamo o Igor!
 
 - 🎓 Cursando **Bacharelado em Engenharia de Software** 
 - 💼 **Aberto a oportunidades de estágio e vagas júnior** em desenvolvimento de software
