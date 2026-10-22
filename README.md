@@ -1,16 +1,8 @@
-# Olá, eu sou Igor! 👋
-
-**[Seu Cargo Atual ou Objetivo Profissional, ex: Desenvolvedor Full Stack | Backend com Java]**
-
-Breve introdução sobre quem você é, o que te motiva na tecnologia e o que você busca atualmente (1 ou 2 frases curtas).
+# Olá, Me chamo Igor Dias 😉
 
 ### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando em: [Nome do projeto atual ou empresa]
-- 🌱 Atualmente aprendendo: [Tecnologias que está estudando]
-- 👯 Procuro colaborar em: [Tipo de projetos open-source ou parcerias]
-- 🤔 Preciso de ajuda com: [Algo que você está com dificuldade ou quer mentoria]
-- 💬 Pergunte-me sobre: [Assuntos que você domina, ex: Java, Spring Boot, React]
-- ⚡ Curiosidade: [Um hobby ou fato divertido sobre você]
+-  **Estudante de Engenharia de Software** apaixonado por tecnologia e resolução de problemas.
+-  Focado em escrever código limpo, construir arquiteturas escaláveis e no aprendizado contínuo.
 
 ### 💻 Linguagens
 
