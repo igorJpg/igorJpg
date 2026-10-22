@@ -17,7 +17,7 @@
 
 ## 👋 Olá, eu sou o Igor!
 
-- 🎓 Cursando **Bacharelado em Engenharia de Software** na **UCSal**
+- 🎓 Cursando **Bacharelado em Engenharia de Software** 
 - 💼 **Aberto a oportunidades de estágio e vagas júnior** em desenvolvimento de software
 - 🔭 Aprofundando meus estudos em **Java, Spring Boot e React**
 - 🧠 Gosto de resolver problemas, escrever código limpo e aprender com cada projeto
@@ -50,19 +50,6 @@
 
 ---
 
-<!--
-  ⭐ PROJETOS EM DESTAQUE
-  Esta é a seção que mais pesa para um recrutador. Para ativar:
-  1) Apague as linhas "<!--" e "-->" que envolvem este bloco
-  2) Troque os textos entre colchetes pelos seus projetos reais (2 a 4 é o ideal)
-
-## ⭐ Projetos em destaque
-
-| Projeto | O que faz | Tecnologias |
-| --- | --- | --- |
-| [**Nome do projeto 1**](https://github.com/igorJpg/NOME-DO-REPOSITORIO) | Uma frase explicando o problema que resolve | Java · Spring Boot · PostgreSQL |
-| [**Nome do projeto 2**](https://github.com/igorJpg/NOME-DO-REPOSITORIO) | Uma frase explicando o problema que resolve | React · JavaScript |
--->
 
 ## 📊 Estatísticas no GitHub
 
