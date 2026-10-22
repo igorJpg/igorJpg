@@ -1,4 +1,4 @@
-# Olá, eu sou Igor! 👋
+# Olá, me chamo Igor Dias! 😉 
 
 ### 🚀 Sobre Mim
 - 🎓 **Estudante de Engenharia de Software** apaixonado por tecnologia e resolução de problemas.
