@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome ou Apelido]! 👋
+# Olá, eu sou Igor! 👋
 
 **[Seu Cargo Atual ou Objetivo Profissional, ex: Desenvolvedor Full Stack | Backend com Java]**
 
@@ -30,8 +30,7 @@ Breve introdução sobre quem você é, o que te motiva na tecnologia e o que vo
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igorJpg&theme=holi&show_icons=true" alt="Estatísticas do Igor no GitHub"/>
 </p>
 
 ### 📫 Como me encontrar
