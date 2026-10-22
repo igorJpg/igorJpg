@@ -1,4 +1,4 @@
-# Olá, me chamo Igor Dias! 😉 
+# Olá, me chamo Igor Dias! 😉
 
 ### 🚀 Sobre Mim
 - 🎓 **Estudante de Engenharia de Software** apaixonado por tecnologia e resolução de problemas.
@@ -38,7 +38,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=igorJpg&theme=holi&show_icons=true" alt="Estatísticas do Igor no GitHub"/>
 </p>
 
-### 📫 Contacte-me!
+### 🐍 Minhas Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorJpg/igorJpg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorJpg/igorJpg/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/igorJpg/igorJpg/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### 📫 Me contate!
 
 <div>
   <a href="mailto:igordias1921@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
