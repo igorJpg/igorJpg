@@ -1,8 +1,8 @@
-# Olá, Me chamo Igor Dias 😉
+# Olá, eu sou Igor! 👋
 
 ### 🚀 Sobre Mim
--  **Estudante de Engenharia de Software** apaixonado por tecnologia e resolução de problemas.
--  Focado em escrever código limpo, construir arquiteturas escaláveis e no aprendizado contínuo.
+- 🎓 **Estudante de Engenharia de Software** apaixonado por tecnologia e resolução de problemas.
+- 💡 Focado em escrever código limpo, construir arquiteturas escaláveis e no aprendizado contínuo.
 
 ### 💻 Linguagens
 
@@ -19,13 +19,26 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </div>
 
+### 🛢️ Bancos de Dados
+
+<div>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</div>
+
+### ⚙️ Ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorJpg&theme=holi&show_icons=true" alt="Estatísticas do Igor no GitHub"/>
 </p>
 
-### 📫 Me contate!
+### 📫 Contacte-me!
 
 <div>
   <a href="mailto:igordias1921@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
