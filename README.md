@@ -54,8 +54,11 @@
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue_navy_icons=true" alt="Estatísticas do Igor no GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorJpg&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=igorJpg&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do Igor no GitHub" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorJpg&layout=compact&theme=blue_navy&hide_border=true&v=2" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
