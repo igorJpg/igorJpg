@@ -54,7 +54,7 @@
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue_navy_icons=true)" alt="Estatísticas do Igor no GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue_navy_icons=true" alt="Estatísticas do Igor no GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorJpg&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
