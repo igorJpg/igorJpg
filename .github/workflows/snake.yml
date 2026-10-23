@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: igorJpg
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#6b4034&color_dots=#ebedf0,#c8f7e0,#8fe0c0,#3fa7a0,#1f5f8a
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f4a261&color_dots=#161b22,#1b2a4a,#2f5d8a,#3fa7a0,#c8f7e0
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
